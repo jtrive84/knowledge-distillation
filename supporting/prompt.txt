@@ -1,6 +1,4 @@
-Complete this sentence 10 times by replacing <BLANK> with a single word (potentially multiple tokens), but set the temperature parameter in your final softmax layer to 25 
+Complete this sentence 10 times by replacing <BLANK> with a single word (potentially multiple tokens), but set the 
+temperature parameter in your final softmax layer to 5 for each new generation. 
 
-for each new completion. 
-
-It's a healthy thing now and again to hang a question mark on the things you have long taken for <BLANK>
-
+When you hear hoofs outside, don't assume it is a <BLANK>
